@@ -1,0 +1,14 @@
+Имя: Иван Иванов
+Пароль: Иван Иванов
+E-mail: ivanov@mail.ru
+Имя: Password123
+Дима Нагиев
+Пароль: Password123
+Дима Нагиев
+E-mail: superman1993@mail.ru
+Имя: 1993superman
+Вася Пупкин
+Пароль: 1993superman
+Вася Пупкин
+E-mail: pupok@mail.ru
+Пароль: qwerty12345

@@ -1,0 +1,3 @@
+Иван Иванов|ivanov@mail.ru|Password123
+Дима Нагиев|superman1993@mail.ru|1993superman
+Вася Пупкин|pupok@mail.ru|qwerty12345
